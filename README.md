@@ -1,4 +1,4 @@
-### Hello! 🍃
+### Hello! :)
 
 ## <img height="35" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> A little about myself
 
