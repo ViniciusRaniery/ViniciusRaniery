@@ -1,9 +1,9 @@
 ### Hello! :)
 
-## <img height="35" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> A little about myself
+## <img height="35" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> A Little About Myself
 
-<img width=30% align='right' margin-top:40px src="[https://media0.giphy.com/media/aNqEFrYVnsS52/200w.gif?cid=82a1493bb7dzzzonh5de193epbple3k68rm0wote4urqngem&rid=200w.gif&ct=g](https://offhumor.files.wordpress.com/2015/06/gif-18.gif)">
-<!--<img width=30% align='right' margin-top:40px src="https://c.tenor.com/6y61hTjvYhcAAAAC/hollow-knight.gif">-->
+<img width=30% align='right' margin-top:40px src="https://s2.glbimg.com/hgwJv5oSS4cDCYKjUvGu6qJTYmI=/e.glbimg.com/og/ed/f/original/2015/04/09/tumblr_mmwl4erfif1s2kxflo1_500.gif">
+<!--<img width=30% align='right' margin-top:40px src="https://s2.glbimg.com/hgwJv5oSS4cDCYKjUvGu6qJTYmI=/e.glbimg.com/og/ed/f/original/2015/04/09/tumblr_mmwl4erfif1s2kxflo1_500.gif">-->
 
 ``` js
 class Dev {
@@ -22,8 +22,7 @@ class Dev {
         return this.languages;
     }
 }
-
-var dev = new Dev("Vinícius Raniery", "Full Stack", ["Javascript", "HTML", "CSS", "Python"]);
+var dev = new Dev("C4I0", "Full Stack", ["Javascript", "HTML", "CSS", "Python"]);
 console.log(`${dev.name} | ${dev.area} | ${dev.languages}`);
 ```
 
